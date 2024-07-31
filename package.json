@@ -16,7 +16,10 @@
     "node-sass": "^7.0.1",
     "normalize.css": "^8.0.1",
     "sass-lint": "^1.13.1",
-    "tjw-sasslint-rules": "^2.1.0"
+    "tjw-sasslint-rules": "^2.1.0",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1",
+    "vite-plugin-vue-devtools": "^7.3.1"
   },
   "keywords": [],
   "author": "TheJaredWilcurt/Gwendolyn Faraday",
